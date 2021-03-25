@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(20, 18, 18);
+}
+.new{
+    background-color: rgb(62, 65, 62);
+    
+}
+h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color:floralwhite;
+ 
+}
+.one{
+    margin-left: 40px;
+    border-radius: 3px ;
+    
+}
+.one:focus{
+    background-color: cadetblue;
+}
+.two{
+    margin-left: 53px;
+}
+.two:hover{
+    background-color: coral;
+}
+.three{
+    margin-left: 15px;
+}
+.four{
+    margin-left: 34px;
+}
+.six{
+    margin-left: 20px;
+}
+.five{
+    margin-left: 15px;
+}
+.seven{
+    margin-left: 19px;
+}
+.btn1:hover{
+animation-duration: 3s;
+background-color: coral;
+
+}
+.btn2:hover{
+    animation-duration: 3s;
+    background-color: coral;
+    
